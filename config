@@ -1,2 +1,7 @@
+install geth
+install docker
+install docker-compose
+config blockchain net
+
 here my config file 
 my network configuration
